@@ -1,0 +1,767 @@
+﻿[
+  {
+    "IssueId": "IS-93139253",
+    "EventName": "FBNO",
+    "QuoteNumber": "",
+    "IssueDescription": "XLR cable missing from quote",
+    "IssueType": "Missing from Pull Sheet / Quote",
+    "IssueTypeIndicator": "DarkBlue",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-83042100",
+    "EventName": "FBNO",
+    "QuoteNumber": "",
+    "IssueDescription": "HDMI cable missing from quote",
+    "IssueType": "Missing from Pull Sheet / Quote",
+    "IssueTypeIndicator": "DarkBlue",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-83342089",
+    "EventName": "FBNO",
+    "QuoteNumber": "",
+    "IssueDescription": "SDI cable missing from quote",
+    "IssueType": "Missing from Pull Sheet / Quote",
+    "IssueTypeIndicator": "DarkBlue",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-49338927",
+    "EventName": "FBNO",
+    "QuoteNumber": "",
+    "IssueDescription": "Power cable missing from quote",
+    "IssueType": "Missing from Pull Sheet / Quote",
+    "IssueTypeIndicator": "DarkBlue",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-44559274",
+    "EventName": "FBNO",
+    "QuoteNumber": "",
+    "IssueDescription": "Gaffer tape missing from quote",
+    "IssueType": "Missing from Pull Sheet / Quote",
+    "IssueTypeIndicator": "DarkBlue",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-46079488",
+    "EventName": "FBNO",
+    "QuoteNumber": "",
+    "IssueDescription": "Batteries missing from quote",
+    "IssueType": "Missing from Pull Sheet / Quote",
+    "IssueTypeIndicator": "DarkBlue",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-34619256",
+    "EventName": "FBNO",
+    "QuoteNumber": "",
+    "IssueDescription": "FOH strip missing from quote",
+    "IssueType": "Missing from Pull Sheet / Quote",
+    "IssueTypeIndicator": "DarkBlue",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-07031023",
+    "EventName": "FBNO",
+    "QuoteNumber": "",
+    "IssueDescription": "Note about subrent 14 channel rack from Audio/Visions",
+    "IssueType": "Missing from Pull Sheet / Quote",
+    "IssueTypeIndicator": "DarkBlue",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-41832512",
+    "EventName": "FBNO",
+    "QuoteNumber": "",
+    "IssueDescription": "Bolt bag for projection screens missing from quote",
+    "IssueType": "Missing from Pull Sheet / Quote",
+    "IssueTypeIndicator": "DarkBlue",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-60831199",
+    "EventName": "FBNO",
+    "QuoteNumber": "",
+    "IssueDescription": "Short throw lenses missing from quote",
+    "IssueType": "Missing from Pull Sheet / Quote",
+    "IssueTypeIndicator": "DarkBlue",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-69419023",
+    "EventName": "FBNO",
+    "QuoteNumber": "",
+    "IssueDescription": "Large 12K projectors",
+    "IssueType": "Missing from Pull Sheet / Quote",
+    "IssueTypeIndicator": "DarkBlue",
+    "IssueNotes": "Small projectors in Dallas"
+  },
+  {
+    "IssueId": "IS-05256727",
+    "EventName": "FBNO",
+    "QuoteNumber": "",
+    "IssueDescription": "AR2412 for DX168",
+    "IssueType": "Substitutions / Last Minute Adds",
+    "IssueTypeIndicator": "DarkViolet",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-06935178",
+    "EventName": "FBNO",
+    "QuoteNumber": "",
+    "IssueDescription": "Perfect Cue Mini",
+    "IssueType": "Shortages / Did Not Pack / Pick Error",
+    "IssueTypeIndicator": "OrangeRed",
+    "IssueNotes": "At Joy Marshall event - Kearney"
+  },
+  {
+    "IssueId": "IS-16605852",
+    "EventName": "FBNO",
+    "QuoteNumber": "",
+    "IssueDescription": "Projector screen corners",
+    "IssueType": "Shortages / Did Not Pack / Pick Error",
+    "IssueTypeIndicator": "OrangeRed",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-31056994",
+    "EventName": "FBNO",
+    "QuoteNumber": "",
+    "IssueDescription": "Projector screen legs",
+    "IssueType": "Shortages / Did Not Pack / Pick Error",
+    "IssueTypeIndicator": "OrangeRed",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-09153946",
+    "EventName": "FBNO",
+    "QuoteNumber": "",
+    "IssueDescription": "Speaker stand missing nut/bolt at spreader",
+    "IssueType": "Returned Damaged or Missing",
+    "IssueTypeIndicator": "MediumSeaGreen",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-15971401",
+    "EventName": "FBNO",
+    "QuoteNumber": "",
+    "IssueDescription": "Verify all warehouse sees pull sheet",
+    "IssueType": "Suggestions for Mitigation",
+    "IssueTypeIndicator": "DarkOrange",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-34869883",
+    "EventName": "FBNO",
+    "QuoteNumber": "",
+    "IssueDescription": "Check for missing/damaged equipment on return and deprep",
+    "IssueType": "Suggestions for Mitigation",
+    "IssueTypeIndicator": "DarkOrange",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-04929275",
+    "EventName": "Kimmy Lea Event",
+    "QuoteNumber": "Q-22-0226",
+    "IssueDescription": "Power cable missing from quote",
+    "IssueType": "Missing from Pull Sheet / Quote",
+    "IssueTypeIndicator": "DarkBlue",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-70642408",
+    "EventName": "Kimmy Lea Event",
+    "QuoteNumber": "Q-22-0226",
+    "IssueDescription": "Video cable missing from quote",
+    "IssueType": "Missing from Pull Sheet / Quote",
+    "IssueTypeIndicator": "DarkBlue",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-42609820",
+    "EventName": "Kimmy Lea Event",
+    "QuoteNumber": "Q-22-0226",
+    "IssueDescription": "SDI to HDMI converters missing from quote",
+    "IssueType": "Missing from Pull Sheet / Quote",
+    "IssueTypeIndicator": "DarkBlue",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-02549150",
+    "EventName": "Kimmy Lea Event",
+    "QuoteNumber": "Q-22-0226",
+    "IssueDescription": "Computer deliver",
+    "IssueType": "Other Notes",
+    "IssueTypeIndicator": "DarkOrange",
+    "IssueNotes": "Misunderstanding where to pickup computer"
+  },
+  {
+    "IssueId": "IS-95729058",
+    "EventName": "Kimmy Lea Event",
+    "QuoteNumber": "Q-22-0226",
+    "IssueDescription": "Computer setup",
+    "IssueType": "Other Notes",
+    "IssueTypeIndicator": "DarkOrange",
+    "IssueNotes": "Tech had difficulty with multiple display setup"
+  },
+  {
+    "IssueId": "IS-68205221",
+    "EventName": "Kimmy Lea Event",
+    "QuoteNumber": "Q-22-0226",
+    "IssueDescription": "ProPresenter setup training",
+    "IssueType": "Suggestions for Mitigation",
+    "IssueTypeIndicator": "DarkOrange",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-84063206",
+    "EventName": "INDEA",
+    "QuoteNumber": "Q-22-0234",
+    "IssueDescription": "10 Beam claps",
+    "IssueType": "Missing from Pull Sheet / Quote",
+    "IssueTypeIndicator": "DarkBlue",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-96995106",
+    "EventName": "INDEA",
+    "QuoteNumber": "Q-22-0234",
+    "IssueDescription": "Luminode case",
+    "IssueType": "Missing from Pull Sheet / Quote",
+    "IssueTypeIndicator": "DarkBlue",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-49343382",
+    "EventName": "INDEA",
+    "QuoteNumber": "Q-22-0234",
+    "IssueDescription": "Motorola radios",
+    "IssueType": "Missing from Pull Sheet / Quote",
+    "IssueTypeIndicator": "DarkBlue",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-00563057",
+    "EventName": "INDEA",
+    "QuoteNumber": "Q-22-0234",
+    "IssueDescription": "Socapex trunk",
+    "IssueType": "Missing from Pull Sheet / Quote",
+    "IssueTypeIndicator": "DarkBlue",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-07441484",
+    "EventName": "INDEA",
+    "QuoteNumber": "Q-22-0234",
+    "IssueDescription": "5 pin DMX trunk",
+    "IssueType": "Missing from Pull Sheet / Quote",
+    "IssueTypeIndicator": "DarkBlue",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-29162359",
+    "EventName": "INDEA",
+    "QuoteNumber": "Q-22-0234",
+    "IssueDescription": "200 foot tape measure",
+    "IssueType": "Missing from Pull Sheet / Quote",
+    "IssueTypeIndicator": "DarkBlue",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-44920358",
+    "EventName": "INDEA",
+    "QuoteNumber": "Q-22-0234",
+    "IssueDescription": "Sent 200\u0027 cable/SDI combo cable",
+    "IssueType": "Substitutions / Last Minute Adds",
+    "IssueTypeIndicator": "DarkViolet",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-11521886",
+    "EventName": "INDEA",
+    "QuoteNumber": "Q-22-0234",
+    "IssueDescription": "Send 25\u0027 and 10\u0027 triples in place of 50\u0027 quads",
+    "IssueType": "Substitutions / Last Minute Adds",
+    "IssueTypeIndicator": "DarkViolet",
+    "IssueNotes": "Short of quads"
+  },
+  {
+    "IssueId": "IS-02920406",
+    "EventName": "INDEA",
+    "QuoteNumber": "Q-22-0234",
+    "IssueDescription": "Reduced number of Protron Eclypse from 10 to 8",
+    "IssueType": "Substitutions / Last Minute Adds",
+    "IssueTypeIndicator": "DarkViolet",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-23918535",
+    "EventName": "INDEA",
+    "QuoteNumber": "Q-22-0234",
+    "IssueDescription": "Reduced number of TourNado from 22 to 16",
+    "IssueType": "Substitutions / Last Minute Adds",
+    "IssueTypeIndicator": "DarkViolet",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-61235884",
+    "EventName": "INDEA",
+    "QuoteNumber": "Q-22-0234",
+    "IssueDescription": "Reduced number of Solawash from 12 to 8 (only own 8)",
+    "IssueType": "Substitutions / Last Minute Adds",
+    "IssueTypeIndicator": "DarkViolet",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-02220582",
+    "EventName": "INDEA",
+    "QuoteNumber": "Q-22-0234",
+    "IssueDescription": "25\u0027 stringer (short 2)",
+    "IssueType": "Shortages / Did Not Pack / Pick Error",
+    "IssueTypeIndicator": "OrangeRed",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-21436842",
+    "EventName": "INDEA",
+    "QuoteNumber": "Q-22-0234",
+    "IssueDescription": "Shipped 3 pin rather than 5 pin DMX",
+    "IssueType": "Shortages / Did Not Pack / Pick Error",
+    "IssueTypeIndicator": "OrangeRed",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-13940020",
+    "EventName": "INDEA",
+    "QuoteNumber": "Q-22-0234",
+    "IssueDescription": "2 lights missing omega clamps and slim claws",
+    "IssueType": "Shortages / Did Not Pack / Pick Error",
+    "IssueTypeIndicator": "OrangeRed",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-47368789",
+    "EventName": "INDEA",
+    "QuoteNumber": "Q-22-0234",
+    "IssueDescription": "Add reminder to case to check all lights for content before shipping",
+    "IssueType": "Suggestions for Mitigation",
+    "IssueTypeIndicator": "DarkOrange",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-38736863",
+    "EventName": "INDEA",
+    "QuoteNumber": "Q-22-0234",
+    "IssueDescription": "Changed video wall size; did not update PS to reflect changes",
+    "IssueType": "Other Notes",
+    "IssueTypeIndicator": "DarkOrange",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-52936820",
+    "EventName": "Capitol Tree Lighting",
+    "QuoteNumber": "Q-22-0285",
+    "IssueDescription": "Substitute SQ6",
+    "IssueType": "Substitutions / Last Minute Adds",
+    "IssueTypeIndicator": "DarkViolet",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-59174890",
+    "EventName": "Capitol Tree Lighting",
+    "QuoteNumber": "Q-22-0285",
+    "IssueDescription": "Only could locate 1 Heil PR-30B",
+    "IssueType": "Shortages / Did Not Pack / Pick Error",
+    "IssueTypeIndicator": "OrangeRed",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-29662268",
+    "EventName": "Capitol Tree Lighting",
+    "QuoteNumber": "Q-22-0285",
+    "IssueDescription": "Only could locate 1 Heil PR-30B",
+    "IssueType": "Shortages / Did Not Pack / Pick Error",
+    "IssueTypeIndicator": "OrangeRed",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-96770142",
+    "EventName": "Capitol Tree Lighting",
+    "QuoteNumber": "Q-22-0285",
+    "IssueDescription": "Ethercon spool called out in pull sheet notes with SQ6",
+    "IssueType": "Other Notes",
+    "IssueTypeIndicator": "DarkOrange",
+    "IssueNotes": "Recommend this be a separate item on pull sheet"
+  },
+  {
+    "IssueId": "IS-48957973",
+    "EventName": "HUDL prompter",
+    "QuoteNumber": "Q-22-303",
+    "IssueDescription": "Prompter missing from pull sheet",
+    "IssueType": "Shortages / Did Not Pack / Pick Error",
+    "IssueTypeIndicator": "OrangeRed",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-68162936",
+    "EventName": "King of Kings",
+    "QuoteNumber": "Q-22-0288",
+    "IssueDescription": "Add Panasonic CX350",
+    "IssueType": "Substitutions / Last Minute Adds",
+    "IssueTypeIndicator": "DarkViolet",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-95128923",
+    "EventName": "King of Kings",
+    "QuoteNumber": "Q-22-0288",
+    "IssueDescription": "Add Teradeck Bolt 1000",
+    "IssueType": "Substitutions / Last Minute Adds",
+    "IssueTypeIndicator": "DarkViolet",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-67030089",
+    "EventName": "UNL Graduation",
+    "QuoteNumber": "Q-22-0221",
+    "IssueDescription": "Missing 2 - 3.5\u0027 projector frame sections",
+    "IssueType": "Shortages / Did Not Pack / Pick Error",
+    "IssueTypeIndicator": "OrangeRed",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-93426390",
+    "EventName": "UNL Graduation",
+    "QuoteNumber": "Q-22-0221",
+    "IssueDescription": "Electrical section deleted",
+    "IssueType": "Other Notes",
+    "IssueTypeIndicator": "DarkOrange",
+    "IssueNotes": "Carried forward from previous quote"
+  },
+  {
+    "IssueId": "IS-83306428",
+    "EventName": "San Antonio Christmas concert",
+    "QuoteNumber": "",
+    "IssueDescription": "Unibar - requested 3 could only locate 2",
+    "IssueType": "Shortages / Did Not Pack / Pick Error",
+    "IssueTypeIndicator": "OrangeRed",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-01382632",
+    "EventName": "San Antonio Christmas concert",
+    "QuoteNumber": "",
+    "IssueDescription": "Sparkulars (2) not working correctly",
+    "IssueType": "Returned Damaged or Missing",
+    "IssueTypeIndicator": "MediumSeaGreen",
+    "IssueNotes": "Assign to Jordan for repair"
+  },
+  {
+    "IssueId": "IS-97061550",
+    "EventName": "San Antonio Christmas concert",
+    "QuoteNumber": "",
+    "IssueDescription": "Power switch broken on FogJet",
+    "IssueType": "Returned Damaged or Missing",
+    "IssueTypeIndicator": "MediumSeaGreen",
+    "IssueNotes": "Assign to Jordan for repair"
+  },
+  {
+    "IssueId": "IS-20956324",
+    "EventName": "San Antonio Christmas concert",
+    "QuoteNumber": "",
+    "IssueDescription": "No Flex pull sheet created",
+    "IssueType": "Other Notes",
+    "IssueTypeIndicator": "DarkOrange",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-06135919",
+    "EventName": "San Antonio Christmas concert",
+    "QuoteNumber": "",
+    "IssueDescription": "Wrong feet shipped for 75\u0022 display",
+    "IssueType": "Other Notes",
+    "IssueTypeIndicator": "DarkOrange",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-35960298",
+    "EventName": "San Antonio Christmas concert",
+    "QuoteNumber": "",
+    "IssueDescription": "Need to locate correct Tx/Rx for Wireless DMX",
+    "IssueType": "Other Notes",
+    "IssueTypeIndicator": "DarkOrange",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-14645687",
+    "EventName": "Inspirmedia Kajian",
+    "QuoteNumber": "",
+    "IssueDescription": "Testing the file save function",
+    "IssueType": "Other Notes",
+    "IssueTypeIndicator": "LightPink",
+    "IssueNotes": "Should be cleared up now"
+  },
+  {
+    "IssueId": "IS-69134747",
+    "EventName": "Fade Up Design - Hilton Omaha",
+    "QuoteNumber": "Q-23-0030",
+    "IssueDescription": "XLR Cable - adds",
+    "IssueType": "Substitutions / Last Minute Adds",
+    "IssueTypeIndicator": "DarkViolet",
+    "IssueNotes": "Called for 4, sent six"
+  },
+  {
+    "IssueId": "IS-66963546",
+    "EventName": "Fade Up Design - Hilton Omaha",
+    "QuoteNumber": "Q-23-0030",
+    "IssueDescription": "XLR Cable 50 ft",
+    "IssueType": "Substitutions / Last Minute Adds",
+    "IssueTypeIndicator": "DarkViolet",
+    "IssueNotes": "Called for six sent eight"
+  },
+  {
+    "IssueId": "IS-41786557",
+    "EventName": "Fade Up Design - Hilton Omaha",
+    "QuoteNumber": "Q-23-0030",
+    "IssueDescription": "XLR Cable 100 ft",
+    "IssueType": "Substitutions / Last Minute Adds",
+    "IssueTypeIndicator": "DarkViolet",
+    "IssueNotes": "Called for 2 sent 3"
+  },
+  {
+    "IssueId": "IS-92621396",
+    "EventName": "Fade Up Design - Hilton Omaha",
+    "QuoteNumber": "Q-23-0030",
+    "IssueDescription": "Wedge monitor",
+    "IssueType": "Shortages / Did Not Pack / Pick Error",
+    "IssueTypeIndicator": "OrangeRed",
+    "IssueNotes": "Missing power cord"
+  },
+  {
+    "IssueId": "IS-55924927",
+    "EventName": "Fade Up Design - Hilton Omaha",
+    "QuoteNumber": "Q-23-0030",
+    "IssueDescription": "Roland VR-50 MkII",
+    "IssueType": "Shortages / Did Not Pack / Pick Error",
+    "IssueTypeIndicator": "OrangeRed",
+    "IssueNotes": "Missing power supply"
+  },
+  {
+    "IssueId": "IS-17870638",
+    "EventName": "Omaha Symphony",
+    "QuoteNumber": "Q-23-0037",
+    "IssueDescription": "IDX 4 pin power supply",
+    "IssueType": "Substitutions / Last Minute Adds",
+    "IssueTypeIndicator": "DarkViolet",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-18500975",
+    "EventName": "Omaha Symphony",
+    "QuoteNumber": "Q-23-0037",
+    "IssueDescription": "6 ft IEC cablel",
+    "IssueType": "Substitutions / Last Minute Adds",
+    "IssueTypeIndicator": "DarkViolet",
+    "IssueNotes": "sent spare"
+  },
+  {
+    "IssueId": "IS-74410592",
+    "EventName": "UNL - Lindsay Augustyn",
+    "QuoteNumber": "Q-23-0053",
+    "IssueDescription": "Manfrotto tripod",
+    "IssueType": "Substitutions / Last Minute Adds",
+    "IssueTypeIndicator": "DarkViolet",
+    "IssueNotes": "Substitute 509 for 504"
+  },
+  {
+    "IssueId": "IS-10736159",
+    "EventName": "UNL - Lindsay Augustyn",
+    "QuoteNumber": "Q-23-0053",
+    "IssueDescription": "Canon XA-25",
+    "IssueType": "Substitutions / Last Minute Adds",
+    "IssueTypeIndicator": "DarkViolet",
+    "IssueNotes": "Substitute 350"
+  },
+  {
+    "IssueId": "IS-46995046",
+    "EventName": "UNL - Lindsay Augustyn",
+    "QuoteNumber": "Q-23-0053",
+    "IssueDescription": "Atomos Shogun",
+    "IssueType": "Substitutions / Last Minute Adds",
+    "IssueTypeIndicator": "DarkViolet",
+    "IssueNotes": "Delete from event - not needed"
+  },
+  {
+    "IssueId": "IS-64074671",
+    "EventName": "UNL - Lindsay Augustyn",
+    "QuoteNumber": "Q-23-0053",
+    "IssueDescription": "Atomos Shogun",
+    "IssueType": "Substitutions / Last Minute Adds",
+    "IssueTypeIndicator": "DarkViolet",
+    "IssueNotes": "Substitute BMD Hyperdeck"
+  },
+  {
+    "IssueId": "IS-02890765",
+    "EventName": "UNL - Lindsay Augustyn",
+    "QuoteNumber": "Q-23-0053",
+    "IssueDescription": "25 ft Quad power cable (missing from pull sheet; also sub)",
+    "IssueType": "Substitutions / Last Minute Adds",
+    "IssueTypeIndicator": "DarkViolet",
+    "IssueNotes": "Sub 1 ft quad and 25 ft single"
+  },
+  {
+    "IssueId": "IS-04037655",
+    "EventName": "UNL - Lindsay Augustyn",
+    "QuoteNumber": "Q-23-0053",
+    "IssueDescription": "20 ft single power cable (missing from pull sheet; also sub)",
+    "IssueType": "Substitutions / Last Minute Adds",
+    "IssueTypeIndicator": "DarkViolet",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-30046926",
+    "EventName": "UNL - Lindsay Augustyn",
+    "QuoteNumber": "Q-23-0053",
+    "IssueDescription": "Lumintek HDMI to SDI",
+    "IssueType": "Substitutions / Last Minute Adds",
+    "IssueTypeIndicator": "DarkViolet",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-85398860",
+    "EventName": "UNL - Lindsay Augustyn",
+    "QuoteNumber": "Q-23-0053",
+    "IssueDescription": "Lumintek SDI to HDMI",
+    "IssueType": "Substitutions / Last Minute Adds",
+    "IssueTypeIndicator": "DarkViolet",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-08775508",
+    "EventName": "UNL - Lindsay Augustyn",
+    "QuoteNumber": "Q-23-0053",
+    "IssueDescription": "4 - short HDMI",
+    "IssueType": "Substitutions / Last Minute Adds",
+    "IssueTypeIndicator": "DarkViolet",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-20229995",
+    "EventName": "UNL - Lindsay Augustyn",
+    "QuoteNumber": "Q-23-0053",
+    "IssueDescription": "4 - short SDI",
+    "IssueType": "Substitutions / Last Minute Adds",
+    "IssueTypeIndicator": "DarkViolet",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-94412834",
+    "EventName": "UNL - Lindsay Augustyn",
+    "QuoteNumber": "Q-23-0053",
+    "IssueDescription": "25 ft SDI",
+    "IssueType": "Substitutions / Last Minute Adds",
+    "IssueTypeIndicator": "DarkViolet",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-91176035",
+    "EventName": "UNL - Lindsay Augustyn",
+    "QuoteNumber": "Q-23-0053",
+    "IssueDescription": "2 - 250 ft SDI",
+    "IssueType": "Substitutions / Last Minute Adds",
+    "IssueTypeIndicator": "DarkViolet",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-01202441",
+    "EventName": "UNL - Lindsay Augustyn",
+    "QuoteNumber": "Q-23-0053",
+    "IssueDescription": "1 - 50 ft SDI",
+    "IssueType": "Substitutions / Last Minute Adds",
+    "IssueTypeIndicator": "DarkViolet",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-02400283",
+    "EventName": "UNL - Lindsay Augustyn",
+    "QuoteNumber": "Q-23-0053",
+    "IssueDescription": "1 - 50 ft SDI",
+    "IssueType": "Substitutions / Last Minute Adds",
+    "IssueTypeIndicator": "DarkViolet",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-90074610",
+    "EventName": "UNL - Lindsay Augustyn",
+    "QuoteNumber": "Q-23-0053",
+    "IssueDescription": "2 - 25 ft Quad",
+    "IssueType": "Substitutions / Last Minute Adds",
+    "IssueTypeIndicator": "DarkViolet",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-56993148",
+    "EventName": "UNL - Lindsay Augustyn",
+    "QuoteNumber": "Q-23-0053",
+    "IssueDescription": "2 - 25 ft XLR",
+    "IssueType": "Substitutions / Last Minute Adds",
+    "IssueTypeIndicator": "DarkViolet",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-54830564",
+    "EventName": "UNL - Lindsay Augustyn",
+    "QuoteNumber": "Q-23-0053",
+    "IssueDescription": "Gaffer tape",
+    "IssueType": "Substitutions / Last Minute Adds",
+    "IssueTypeIndicator": "DarkViolet",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-91574124",
+    "EventName": "Art of Honor",
+    "QuoteNumber": "Q-23-0020",
+    "IssueDescription": "Scenic",
+    "IssueType": "Substitutions / Last Minute Add or Deletion",
+    "IssueTypeIndicator": "DarkViolet",
+    "IssueNotes": "All pipe/drape and bases deleted from event"
+  },
+  {
+    "IssueId": "IS-87239424",
+    "EventName": "Art of Honor",
+    "QuoteNumber": "Q-23-0020",
+    "IssueDescription": "Missing XLR",
+    "IssueType": "Missing from Pull Sheet / Quote",
+    "IssueTypeIndicator": "DarkBlue",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-62724083",
+    "EventName": "Art of Honor",
+    "QuoteNumber": "Q-23-0020",
+    "IssueDescription": "Missing  DMX",
+    "IssueType": "Missing from Pull Sheet / Quote",
+    "IssueTypeIndicator": "DarkBlue",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-99477939",
+    "EventName": "Art of Honor",
+    "QuoteNumber": "Q-23-0020",
+    "IssueDescription": "Missing Power",
+    "IssueType": "Missing from Pull Sheet / Quote",
+    "IssueTypeIndicator": "DarkBlue",
+    "IssueNotes": ""
+  },
+  {
+    "IssueId": "IS-68420774",
+    "EventName": "Art of Honor",
+    "QuoteNumber": "Q-23-0020",
+    "IssueDescription": "Missing FOH strip",
+    "IssueType": "Missing from Pull Sheet / Quote",
+    "IssueTypeIndicator": "DarkBlue",
+    "IssueNotes": ""
+  }
+]
