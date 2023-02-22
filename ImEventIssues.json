@@ -5,7 +5,7 @@
     "QuoteNumber": "",
     "IssueDescription": "XLR cable missing from quote",
     "IssueType": "Missing from Pull Sheet / Quote",
-    "IssueTypeIndicator": "#00008B",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/missing.jpg",
     "IssueNotes": ""
   },
   {
@@ -14,7 +14,7 @@
     "QuoteNumber": "",
     "IssueDescription": "HDMI cable missing from quote",
     "IssueType": "Missing from Pull Sheet / Quote",
-    "IssueTypeIndicator": "#00008B",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/missing.jpg",
     "IssueNotes": ""
   },
   {
@@ -23,7 +23,7 @@
     "QuoteNumber": "",
     "IssueDescription": "SDI cable missing from quote",
     "IssueType": "Missing from Pull Sheet / Quote",
-    "IssueTypeIndicator": "#00008B",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/missing.jpg",
     "IssueNotes": ""
   },
   {
@@ -32,7 +32,7 @@
     "QuoteNumber": "",
     "IssueDescription": "Power cable missing from quote",
     "IssueType": "Missing from Pull Sheet / Quote",
-    "IssueTypeIndicator": "#00008B",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/missing.jpg",
     "IssueNotes": ""
   },
   {
@@ -41,7 +41,7 @@
     "QuoteNumber": "",
     "IssueDescription": "Gaffer tape missing from quote",
     "IssueType": "Missing from Pull Sheet / Quote",
-    "IssueTypeIndicator": "#00008B",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/missing.jpg",
     "IssueNotes": ""
   },
   {
@@ -50,7 +50,7 @@
     "QuoteNumber": "",
     "IssueDescription": "Batteries missing from quote",
     "IssueType": "Missing from Pull Sheet / Quote",
-    "IssueTypeIndicator": "#00008B",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/missing.jpg",
     "IssueNotes": ""
   },
   {
@@ -59,7 +59,7 @@
     "QuoteNumber": "",
     "IssueDescription": "FOH strip missing from quote",
     "IssueType": "Missing from Pull Sheet / Quote",
-    "IssueTypeIndicator": "#00008B",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/missing.jpg",
     "IssueNotes": ""
   },
   {
@@ -68,7 +68,7 @@
     "QuoteNumber": "",
     "IssueDescription": "Note about subrent 14 channel rack from Audio/Visions",
     "IssueType": "Missing from Pull Sheet / Quote",
-    "IssueTypeIndicator": "#00008B",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/missing.jpg",
     "IssueNotes": ""
   },
   {
@@ -77,7 +77,7 @@
     "QuoteNumber": "",
     "IssueDescription": "Bolt bag for projection screens missing from quote",
     "IssueType": "Missing from Pull Sheet / Quote",
-    "IssueTypeIndicator": "#00008B",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/missing.jpg",
     "IssueNotes": ""
   },
   {
@@ -86,7 +86,7 @@
     "QuoteNumber": "",
     "IssueDescription": "Short throw lenses missing from quote",
     "IssueType": "Missing from Pull Sheet / Quote",
-    "IssueTypeIndicator": "#00008B",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/missing.jpg",
     "IssueNotes": ""
   },
   {
@@ -95,7 +95,7 @@
     "QuoteNumber": "",
     "IssueDescription": "Large 12K projectors",
     "IssueType": "Missing from Pull Sheet / Quote",
-    "IssueTypeIndicator": "#00008B",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/missing.jpg",
     "IssueNotes": "Small projectors in Dallas"
   },
   {
@@ -104,7 +104,7 @@
     "QuoteNumber": "",
     "IssueDescription": "AR2412 for DX168",
     "IssueType": "Substitutions / Last Minute Adds",
-    "IssueTypeIndicator": "#9400D3",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/substitutions.jpg",
     "IssueNotes": ""
   },
   {
@@ -113,7 +113,7 @@
     "QuoteNumber": "",
     "IssueDescription": "Perfect Cue Mini",
     "IssueType": "Shortages / Did Not Pack / Pick Error",
-    "IssueTypeIndicator": "#FF4500",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/shortages.jpg",
     "IssueNotes": "At Joy Marshall event - Kearney"
   },
   {
@@ -122,7 +122,7 @@
     "QuoteNumber": "",
     "IssueDescription": "Projector screen corners",
     "IssueType": "Shortages / Did Not Pack / Pick Error",
-    "IssueTypeIndicator": "#FF4500",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/shortages.jpg",
     "IssueNotes": ""
   },
   {
@@ -131,7 +131,7 @@
     "QuoteNumber": "",
     "IssueDescription": "Projector screen legs",
     "IssueType": "Shortages / Did Not Pack / Pick Error",
-    "IssueTypeIndicator": "#FF4500",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/shortages.jpg",
     "IssueNotes": ""
   },
   {
@@ -140,7 +140,7 @@
     "QuoteNumber": "",
     "IssueDescription": "Speaker stand missing nut/bolt at spreader",
     "IssueType": "Returned Damaged or Missing",
-    "IssueTypeIndicator": "#3CB371",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/returned.jpg",
     "IssueNotes": ""
   },
   {
@@ -149,7 +149,7 @@
     "QuoteNumber": "",
     "IssueDescription": "Verify all warehouse sees pull sheet",
     "IssueType": "Suggestions for Mitigation",
-    "IssueTypeIndicator": "#3CB371",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/suggestions.jpg",
     "IssueNotes": ""
   },
   {
@@ -158,7 +158,7 @@
     "QuoteNumber": "",
     "IssueDescription": "Check for missing/damaged equipment on return and deprep",
     "IssueType": "Suggestions for Mitigation",
-    "IssueTypeIndicator": "#3CB371",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/suggestions.jpg",
     "IssueNotes": ""
   },
   {
@@ -167,7 +167,7 @@
     "QuoteNumber": "Q-22-0226",
     "IssueDescription": "Power cable missing from quote",
     "IssueType": "Missing from Pull Sheet / Quote",
-    "IssueTypeIndicator": "#00008B",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/missing.jpg",
     "IssueNotes": ""
   },
   {
@@ -176,7 +176,7 @@
     "QuoteNumber": "Q-22-0226",
     "IssueDescription": "Video cable missing from quote",
     "IssueType": "Missing from Pull Sheet / Quote",
-    "IssueTypeIndicator": "#00008B",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/missing.jpg",
     "IssueNotes": ""
   },
   {
@@ -185,7 +185,7 @@
     "QuoteNumber": "Q-22-0226",
     "IssueDescription": "SDI to HDMI converters missing from quote",
     "IssueType": "Missing from Pull Sheet / Quote",
-    "IssueTypeIndicator": "#00008B",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/missing.jpg",
     "IssueNotes": ""
   },
   {
@@ -194,7 +194,7 @@
     "QuoteNumber": "Q-22-0226",
     "IssueDescription": "Computer deliver",
     "IssueType": "Other Notes",
-    "IssueTypeIndicator": "#3CB371",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/suggestions.jpg",
     "IssueNotes": "Misunderstanding where to pickup computer"
   },
   {
@@ -203,7 +203,7 @@
     "QuoteNumber": "Q-22-0226",
     "IssueDescription": "Computer setup",
     "IssueType": "Other Notes",
-    "IssueTypeIndicator": "#3CB371",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/suggestions.jpg",
     "IssueNotes": "Tech had difficulty with multiple display setup"
   },
   {
@@ -212,7 +212,7 @@
     "QuoteNumber": "Q-22-0226",
     "IssueDescription": "ProPresenter setup training",
     "IssueType": "Suggestions for Mitigation",
-    "IssueTypeIndicator": "#3CB371",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/suggestions.jpg",
     "IssueNotes": ""
   },
   {
@@ -221,7 +221,7 @@
     "QuoteNumber": "Q-22-0234",
     "IssueDescription": "10 Beam claps",
     "IssueType": "Missing from Pull Sheet / Quote",
-    "IssueTypeIndicator": "#00008B",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/missing.jpg",
     "IssueNotes": ""
   },
   {
@@ -230,7 +230,7 @@
     "QuoteNumber": "Q-22-0234",
     "IssueDescription": "Luminode case",
     "IssueType": "Missing from Pull Sheet / Quote",
-    "IssueTypeIndicator": "#00008B",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/missing.jpg",
     "IssueNotes": ""
   },
   {
@@ -239,7 +239,7 @@
     "QuoteNumber": "Q-22-0234",
     "IssueDescription": "Motorola radios",
     "IssueType": "Missing from Pull Sheet / Quote",
-    "IssueTypeIndicator": "#00008B",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/missing.jpg",
     "IssueNotes": ""
   },
   {
@@ -248,7 +248,7 @@
     "QuoteNumber": "Q-22-0234",
     "IssueDescription": "Socapex trunk",
     "IssueType": "Missing from Pull Sheet / Quote",
-    "IssueTypeIndicator": "#00008B",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/missing.jpg",
     "IssueNotes": ""
   },
   {
@@ -257,7 +257,7 @@
     "QuoteNumber": "Q-22-0234",
     "IssueDescription": "5 pin DMX trunk",
     "IssueType": "Missing from Pull Sheet / Quote",
-    "IssueTypeIndicator": "#00008B",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/missing.jpg",
     "IssueNotes": ""
   },
   {
@@ -266,7 +266,7 @@
     "QuoteNumber": "Q-22-0234",
     "IssueDescription": "200 foot tape measure",
     "IssueType": "Missing from Pull Sheet / Quote",
-    "IssueTypeIndicator": "#00008B",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/missing.jpg",
     "IssueNotes": ""
   },
   {
@@ -275,7 +275,7 @@
     "QuoteNumber": "Q-22-0234",
     "IssueDescription": "Sent 200\u0027 cable/SDI combo cable",
     "IssueType": "Substitutions / Last Minute Adds",
-    "IssueTypeIndicator": "#9400D3",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/substitutions.jpg",
     "IssueNotes": ""
   },
   {
@@ -284,7 +284,7 @@
     "QuoteNumber": "Q-22-0234",
     "IssueDescription": "Send 25\u0027 and 10\u0027 triples in place of 50\u0027 quads",
     "IssueType": "Substitutions / Last Minute Adds",
-    "IssueTypeIndicator": "#9400D3",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/substitutions.jpg",
     "IssueNotes": "Short of quads"
   },
   {
@@ -293,7 +293,7 @@
     "QuoteNumber": "Q-22-0234",
     "IssueDescription": "Reduced number of Protron Eclypse from 10 to 8",
     "IssueType": "Substitutions / Last Minute Adds",
-    "IssueTypeIndicator": "#9400D3",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/substitutions.jpg",
     "IssueNotes": ""
   },
   {
@@ -302,7 +302,7 @@
     "QuoteNumber": "Q-22-0234",
     "IssueDescription": "Reduced number of TourNado from 22 to 16",
     "IssueType": "Substitutions / Last Minute Adds",
-    "IssueTypeIndicator": "#9400D3",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/substitutions.jpg",
     "IssueNotes": ""
   },
   {
@@ -311,7 +311,7 @@
     "QuoteNumber": "Q-22-0234",
     "IssueDescription": "Reduced number of Solawash from 12 to 8 (only own 8)",
     "IssueType": "Substitutions / Last Minute Adds",
-    "IssueTypeIndicator": "#9400D3",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/substitutions.jpg",
     "IssueNotes": ""
   },
   {
@@ -320,7 +320,7 @@
     "QuoteNumber": "Q-22-0234",
     "IssueDescription": "25\u0027 stringer (short 2)",
     "IssueType": "Shortages / Did Not Pack / Pick Error",
-    "IssueTypeIndicator": "#FF4500",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/shortages.jpg",
     "IssueNotes": ""
   },
   {
@@ -329,7 +329,7 @@
     "QuoteNumber": "Q-22-0234",
     "IssueDescription": "Shipped 3 pin rather than 5 pin DMX",
     "IssueType": "Shortages / Did Not Pack / Pick Error",
-    "IssueTypeIndicator": "#FF4500",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/shortages.jpg",
     "IssueNotes": ""
   },
   {
@@ -338,7 +338,7 @@
     "QuoteNumber": "Q-22-0234",
     "IssueDescription": "2 lights missing omega clamps and slim claws",
     "IssueType": "Shortages / Did Not Pack / Pick Error",
-    "IssueTypeIndicator": "#FF4500",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/shortages.jpg",
     "IssueNotes": ""
   },
   {
@@ -347,7 +347,7 @@
     "QuoteNumber": "Q-22-0234",
     "IssueDescription": "Add reminder to case to check all lights for content before shipping",
     "IssueType": "Suggestions for Mitigation",
-    "IssueTypeIndicator": "#3CB371",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/suggestions.jpg",
     "IssueNotes": ""
   },
   {
@@ -356,7 +356,7 @@
     "QuoteNumber": "Q-22-0234",
     "IssueDescription": "Changed video wall size; did not update PS to reflect changes",
     "IssueType": "Other Notes",
-    "IssueTypeIndicator": "#3CB371",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/suggestions.jpg",
     "IssueNotes": ""
   },
   {
@@ -365,7 +365,7 @@
     "QuoteNumber": "Q-22-0285",
     "IssueDescription": "Substitute SQ6",
     "IssueType": "Substitutions / Last Minute Adds",
-    "IssueTypeIndicator": "#9400D3",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/substitutions.jpg",
     "IssueNotes": ""
   },
   {
@@ -374,7 +374,7 @@
     "QuoteNumber": "Q-22-0285",
     "IssueDescription": "Only could locate 1 Heil PR-30B",
     "IssueType": "Shortages / Did Not Pack / Pick Error",
-    "IssueTypeIndicator": "#FF4500",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/shortages.jpg",
     "IssueNotes": ""
   },
   {
@@ -383,7 +383,7 @@
     "QuoteNumber": "Q-22-0285",
     "IssueDescription": "Only could locate 1 Heil PR-30B",
     "IssueType": "Shortages / Did Not Pack / Pick Error",
-    "IssueTypeIndicator": "#FF4500",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/shortages.jpg",
     "IssueNotes": ""
   },
   {
@@ -392,7 +392,7 @@
     "QuoteNumber": "Q-22-0285",
     "IssueDescription": "Ethercon spool called out in pull sheet notes with SQ6",
     "IssueType": "Other Notes",
-    "IssueTypeIndicator": "#3CB371",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/suggestions.jpg",
     "IssueNotes": "Recommend this be a separate item on pull sheet"
   },
   {
@@ -401,7 +401,7 @@
     "QuoteNumber": "Q-22-303",
     "IssueDescription": "Prompter missing from pull sheet",
     "IssueType": "Shortages / Did Not Pack / Pick Error",
-    "IssueTypeIndicator": "#FF4500",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/shortages.jpg",
     "IssueNotes": ""
   },
   {
@@ -410,7 +410,7 @@
     "QuoteNumber": "Q-22-0288",
     "IssueDescription": "Add Panasonic CX350",
     "IssueType": "Substitutions / Last Minute Adds",
-    "IssueTypeIndicator": "#9400D3",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/substitutions.jpg",
     "IssueNotes": ""
   },
   {
@@ -419,7 +419,7 @@
     "QuoteNumber": "Q-22-0288",
     "IssueDescription": "Add Teradeck Bolt 1000",
     "IssueType": "Substitutions / Last Minute Adds",
-    "IssueTypeIndicator": "#9400D3",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/substitutions.jpg",
     "IssueNotes": ""
   },
   {
@@ -428,7 +428,7 @@
     "QuoteNumber": "Q-22-0221",
     "IssueDescription": "Missing 2 - 3.5\u0027 projector frame sections",
     "IssueType": "Shortages / Did Not Pack / Pick Error",
-    "IssueTypeIndicator": "#FF4500",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/shortages.jpg",
     "IssueNotes": ""
   },
   {
@@ -437,7 +437,7 @@
     "QuoteNumber": "Q-22-0221",
     "IssueDescription": "Electrical section deleted",
     "IssueType": "Other Notes",
-    "IssueTypeIndicator": "#3CB371",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/suggestions.jpg",
     "IssueNotes": "Carried forward from previous quote"
   },
   {
@@ -446,7 +446,7 @@
     "QuoteNumber": "",
     "IssueDescription": "Unibar - requested 3 could only locate 2",
     "IssueType": "Shortages / Did Not Pack / Pick Error",
-    "IssueTypeIndicator": "#FF4500",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/shortages.jpg",
     "IssueNotes": ""
   },
   {
@@ -455,7 +455,7 @@
     "QuoteNumber": "",
     "IssueDescription": "Sparkulars (2) not working correctly",
     "IssueType": "Returned Damaged or Missing",
-    "IssueTypeIndicator": "#3CB371",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/returned.jpg",
     "IssueNotes": "Assign to Jordan for repair"
   },
   {
@@ -464,7 +464,7 @@
     "QuoteNumber": "",
     "IssueDescription": "Power switch broken on FogJet",
     "IssueType": "Returned Damaged or Missing",
-    "IssueTypeIndicator": "#3CB371",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/returned.jpg",
     "IssueNotes": "Assign to Jordan for repair"
   },
   {
@@ -473,7 +473,7 @@
     "QuoteNumber": "",
     "IssueDescription": "No Flex pull sheet created",
     "IssueType": "Other Notes",
-    "IssueTypeIndicator": "#3CB371",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/suggestions.jpg",
     "IssueNotes": ""
   },
   {
@@ -482,7 +482,7 @@
     "QuoteNumber": "",
     "IssueDescription": "Wrong feet shipped for 75\u0022 display",
     "IssueType": "Other Notes",
-    "IssueTypeIndicator": "#3CB371",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/suggestions.jpg",
     "IssueNotes": ""
   },
   {
@@ -491,7 +491,7 @@
     "QuoteNumber": "",
     "IssueDescription": "Need to locate correct Tx/Rx for Wireless DMX",
     "IssueType": "Other Notes",
-    "IssueTypeIndicator": "#3CB371",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/suggestions.jpg",
     "IssueNotes": ""
   },
   {
@@ -509,7 +509,7 @@
     "QuoteNumber": "Q-23-0030",
     "IssueDescription": "XLR Cable - adds",
     "IssueType": "Substitutions / Last Minute Adds",
-    "IssueTypeIndicator": "#9400D3",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/substitutions.jpg",
     "IssueNotes": "Called for 4, sent six"
   },
   {
@@ -518,7 +518,7 @@
     "QuoteNumber": "Q-23-0030",
     "IssueDescription": "XLR Cable 50 ft",
     "IssueType": "Substitutions / Last Minute Adds",
-    "IssueTypeIndicator": "#9400D3",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/substitutions.jpg",
     "IssueNotes": "Called for six sent eight"
   },
   {
@@ -527,7 +527,7 @@
     "QuoteNumber": "Q-23-0030",
     "IssueDescription": "XLR Cable 100 ft",
     "IssueType": "Substitutions / Last Minute Adds",
-    "IssueTypeIndicator": "#9400D3",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/substitutions.jpg",
     "IssueNotes": "Called for 2 sent 3"
   },
   {
@@ -536,7 +536,7 @@
     "QuoteNumber": "Q-23-0030",
     "IssueDescription": "Wedge monitor",
     "IssueType": "Shortages / Did Not Pack / Pick Error",
-    "IssueTypeIndicator": "#FF4500",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/shortages.jpg",
     "IssueNotes": "Missing power cord"
   },
   {
@@ -545,7 +545,7 @@
     "QuoteNumber": "Q-23-0030",
     "IssueDescription": "Roland VR-50 MkII",
     "IssueType": "Shortages / Did Not Pack / Pick Error",
-    "IssueTypeIndicator": "#FF4500",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/shortages.jpg",
     "IssueNotes": "Missing power supply"
   },
   {
@@ -554,7 +554,7 @@
     "QuoteNumber": "Q-23-0037",
     "IssueDescription": "IDX 4 pin power supply",
     "IssueType": "Substitutions / Last Minute Adds",
-    "IssueTypeIndicator": "#9400D3",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/substitutions.jpg",
     "IssueNotes": ""
   },
   {
@@ -563,7 +563,7 @@
     "QuoteNumber": "Q-23-0037",
     "IssueDescription": "6 ft IEC cablel",
     "IssueType": "Substitutions / Last Minute Adds",
-    "IssueTypeIndicator": "#9400D3",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/substitutions.jpg",
     "IssueNotes": "sent spare"
   },
   {
@@ -572,7 +572,7 @@
     "QuoteNumber": "Q-23-0053",
     "IssueDescription": "Manfrotto tripod",
     "IssueType": "Substitutions / Last Minute Adds",
-    "IssueTypeIndicator": "#9400D3",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/substitutions.jpg",
     "IssueNotes": "Substitute 509 for 504"
   },
   {
@@ -581,7 +581,7 @@
     "QuoteNumber": "Q-23-0053",
     "IssueDescription": "Canon XA-25",
     "IssueType": "Substitutions / Last Minute Adds",
-    "IssueTypeIndicator": "#9400D3",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/substitutions.jpg",
     "IssueNotes": "Substitute 350"
   },
   {
@@ -590,7 +590,7 @@
     "QuoteNumber": "Q-23-0053",
     "IssueDescription": "Atomos Shogun",
     "IssueType": "Substitutions / Last Minute Adds",
-    "IssueTypeIndicator": "#9400D3",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/substitutions.jpg",
     "IssueNotes": "Delete from event - not needed"
   },
   {
@@ -599,7 +599,7 @@
     "QuoteNumber": "Q-23-0053",
     "IssueDescription": "Atomos Shogun",
     "IssueType": "Substitutions / Last Minute Adds",
-    "IssueTypeIndicator": "#9400D3",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/substitutions.jpg",
     "IssueNotes": "Substitute BMD Hyperdeck"
   },
   {
@@ -608,7 +608,7 @@
     "QuoteNumber": "Q-23-0053",
     "IssueDescription": "25 ft Quad power cable (missing from pull sheet; also sub)",
     "IssueType": "Substitutions / Last Minute Adds",
-    "IssueTypeIndicator": "#9400D3",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/substitutions.jpg",
     "IssueNotes": "Sub 1 ft quad and 25 ft single"
   },
   {
@@ -617,7 +617,7 @@
     "QuoteNumber": "Q-23-0053",
     "IssueDescription": "20 ft single power cable (missing from pull sheet; also sub)",
     "IssueType": "Substitutions / Last Minute Adds",
-    "IssueTypeIndicator": "#9400D3",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/substitutions.jpg",
     "IssueNotes": ""
   },
   {
@@ -626,7 +626,7 @@
     "QuoteNumber": "Q-23-0053",
     "IssueDescription": "Lumintek HDMI to SDI",
     "IssueType": "Substitutions / Last Minute Adds",
-    "IssueTypeIndicator": "#9400D3",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/substitutions.jpg",
     "IssueNotes": ""
   },
   {
@@ -635,7 +635,7 @@
     "QuoteNumber": "Q-23-0053",
     "IssueDescription": "Lumintek SDI to HDMI",
     "IssueType": "Substitutions / Last Minute Adds",
-    "IssueTypeIndicator": "#9400D3",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/substitutions.jpg",
     "IssueNotes": ""
   },
   {
@@ -644,7 +644,7 @@
     "QuoteNumber": "Q-23-0053",
     "IssueDescription": "4 - short HDMI",
     "IssueType": "Substitutions / Last Minute Adds",
-    "IssueTypeIndicator": "#9400D3",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/substitutions.jpg",
     "IssueNotes": ""
   },
   {
@@ -653,7 +653,7 @@
     "QuoteNumber": "Q-23-0053",
     "IssueDescription": "4 - short SDI",
     "IssueType": "Substitutions / Last Minute Adds",
-    "IssueTypeIndicator": "#9400D3",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/substitutions.jpg",
     "IssueNotes": ""
   },
   {
@@ -662,7 +662,7 @@
     "QuoteNumber": "Q-23-0053",
     "IssueDescription": "25 ft SDI",
     "IssueType": "Substitutions / Last Minute Adds",
-    "IssueTypeIndicator": "#9400D3",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/substitutions.jpg",
     "IssueNotes": ""
   },
   {
@@ -671,7 +671,7 @@
     "QuoteNumber": "Q-23-0053",
     "IssueDescription": "2 - 250 ft SDI",
     "IssueType": "Substitutions / Last Minute Adds",
-    "IssueTypeIndicator": "#9400D3",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/substitutions.jpg",
     "IssueNotes": ""
   },
   {
@@ -680,7 +680,7 @@
     "QuoteNumber": "Q-23-0053",
     "IssueDescription": "1 - 50 ft SDI",
     "IssueType": "Substitutions / Last Minute Adds",
-    "IssueTypeIndicator": "#9400D3",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/substitutions.jpg",
     "IssueNotes": ""
   },
   {
@@ -689,7 +689,7 @@
     "QuoteNumber": "Q-23-0053",
     "IssueDescription": "1 - 50 ft SDI",
     "IssueType": "Substitutions / Last Minute Adds",
-    "IssueTypeIndicator": "#9400D3",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/substitutions.jpg",
     "IssueNotes": ""
   },
   {
@@ -698,7 +698,7 @@
     "QuoteNumber": "Q-23-0053",
     "IssueDescription": "2 - 25 ft Quad",
     "IssueType": "Substitutions / Last Minute Adds",
-    "IssueTypeIndicator": "#9400D3",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/substitutions.jpg",
     "IssueNotes": ""
   },
   {
@@ -707,7 +707,7 @@
     "QuoteNumber": "Q-23-0053",
     "IssueDescription": "2 - 25 ft XLR",
     "IssueType": "Substitutions / Last Minute Adds",
-    "IssueTypeIndicator": "#9400D3",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/substitutions.jpg",
     "IssueNotes": ""
   },
   {
@@ -716,7 +716,7 @@
     "QuoteNumber": "Q-23-0053",
     "IssueDescription": "Gaffer tape",
     "IssueType": "Substitutions / Last Minute Adds",
-    "IssueTypeIndicator": "#9400D3",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/substitutions.jpg",
     "IssueNotes": ""
   },
   {
@@ -725,7 +725,7 @@
     "QuoteNumber": "Q-23-0020",
     "IssueDescription": "Scenic",
     "IssueType": "Substitutions / Last Minute Add or Deletion",
-    "IssueTypeIndicator": "#9400D3",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/substitutions.jpg",
     "IssueNotes": "All pipe/drape and bases deleted from event"
   },
   {
@@ -734,7 +734,7 @@
     "QuoteNumber": "Q-23-0020",
     "IssueDescription": "Missing XLR",
     "IssueType": "Missing from Pull Sheet / Quote",
-    "IssueTypeIndicator": "#00008B",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/missing.jpg",
     "IssueNotes": ""
   },
   {
@@ -743,7 +743,7 @@
     "QuoteNumber": "Q-23-0020",
     "IssueDescription": "Missing  DMX",
     "IssueType": "Missing from Pull Sheet / Quote",
-    "IssueTypeIndicator": "#00008B",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/missing.jpg",
     "IssueNotes": ""
   },
   {
@@ -752,7 +752,7 @@
     "QuoteNumber": "Q-23-0020",
     "IssueDescription": "Missing Power",
     "IssueType": "Missing from Pull Sheet / Quote",
-    "IssueTypeIndicator": "#00008B",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/missing.jpg",
     "IssueNotes": ""
   },
   {
@@ -761,7 +761,7 @@
     "QuoteNumber": "Q-23-0020",
     "IssueDescription": "Missing FOH strip",
     "IssueType": "Missing from Pull Sheet / Quote",
-    "IssueTypeIndicator": "#00008B",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/tree/main/IssueIndicators/missing.jpg",
     "IssueNotes": ""
   }
 ]
