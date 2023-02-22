@@ -194,7 +194,7 @@
     "QuoteNumber": "Q-22-0226",
     "IssueDescription": "Computer deliver",
     "IssueType": "Other Notes",
-    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/blob/main/IssueIndicators/suggestions.jpg?raw=true",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/blob/main/IssueIndicators/other.jpg?raw=true",
     "IssueNotes": "Misunderstanding where to pickup computer"
   },
   {
@@ -203,7 +203,7 @@
     "QuoteNumber": "Q-22-0226",
     "IssueDescription": "Computer setup",
     "IssueType": "Other Notes",
-    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/blob/main/IssueIndicators/suggestions.jpg?raw=true",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/blob/main/IssueIndicators/other.jpg?raw=true",
     "IssueNotes": "Tech had difficulty with multiple display setup"
   },
   {
@@ -212,7 +212,7 @@
     "QuoteNumber": "Q-22-0226",
     "IssueDescription": "ProPresenter setup training",
     "IssueType": "Suggestions for Mitigation",
-    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/blob/main/IssueIndicators/suggestions.jpg?raw=true",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/blob/main/IssueIndicators/other.jpg?raw=true",
     "IssueNotes": ""
   },
   {
@@ -356,7 +356,7 @@
     "QuoteNumber": "Q-22-0234",
     "IssueDescription": "Changed video wall size; did not update PS to reflect changes",
     "IssueType": "Other Notes",
-    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/blob/main/IssueIndicators/suggestions.jpg?raw=true",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/blob/main/IssueIndicators/other.jpg?raw=true",
     "IssueNotes": ""
   },
   {
@@ -392,7 +392,7 @@
     "QuoteNumber": "Q-22-0285",
     "IssueDescription": "Ethercon spool called out in pull sheet notes with SQ6",
     "IssueType": "Other Notes",
-    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/blob/main/IssueIndicators/suggestions.jpg?raw=true",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/blob/main/IssueIndicators/other.jpg?raw=true",
     "IssueNotes": "Recommend this be a separate item on pull sheet"
   },
   {
@@ -437,7 +437,7 @@
     "QuoteNumber": "Q-22-0221",
     "IssueDescription": "Electrical section deleted",
     "IssueType": "Other Notes",
-    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/blob/main/IssueIndicators/suggestions.jpg?raw=true",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/blob/main/IssueIndicators/other.jpg?raw=true",
     "IssueNotes": "Carried forward from previous quote"
   },
   {
@@ -473,7 +473,7 @@
     "QuoteNumber": "",
     "IssueDescription": "No Flex pull sheet created",
     "IssueType": "Other Notes",
-    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/blob/main/IssueIndicators/suggestions.jpg?raw=true",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/blob/main/IssueIndicators/other.jpg?raw=true",
     "IssueNotes": ""
   },
   {
@@ -482,7 +482,7 @@
     "QuoteNumber": "",
     "IssueDescription": "Wrong feet shipped for 75\u0022 display",
     "IssueType": "Other Notes",
-    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/blob/main/IssueIndicators/suggestions.jpg?raw=true",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/blob/main/IssueIndicators/other.jpg?raw=true",
     "IssueNotes": ""
   },
   {
@@ -491,17 +491,8 @@
     "QuoteNumber": "",
     "IssueDescription": "Need to locate correct Tx/Rx for Wireless DMX",
     "IssueType": "Other Notes",
-    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/blob/main/IssueIndicators/suggestions.jpg?raw=true",
+    "IssueTypeIndicator": "https://github.com/normschaeffer/KajianData/blob/main/IssueIndicators/other.jpg?raw=true",
     "IssueNotes": ""
-  },
-  {
-    "IssueId": "IS-14645687",
-    "EventName": "Inspirmedia Kajian",
-    "QuoteNumber": "",
-    "IssueDescription": "Testing the file save function",
-    "IssueType": "Other Notes",
-    "IssueTypeIndicator": "LightPink",
-    "IssueNotes": "Should be cleared up now"
   },
   {
     "IssueId": "IS-69134747",
